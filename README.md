@@ -18,22 +18,6 @@ I am a Data Science enthusiast. I have insights into **Machine Learning, Deep Le
 ### QUALITEST
 
 
-<.......................>
-
-### **SOFTWARE ENGINEER**
-### ACADLILD
-
-
-<..............>
-
-
-
-### **SOFTWARE TEST ENGINEER**
-### VIA.COM
-
-
-<...................>
-
 
 
 ---
