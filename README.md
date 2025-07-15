@@ -1,9 +1,10 @@
 ## Portfolio
+Coming Soon......
 (..under construction..)
 
-I am a QA Tester with an experience of over 5 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java and Selenium.
+I am a SDET with an experience of over 5 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java and Selenium.
 
-I am a Data Science enthusiast. I have insights into **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.**
+Transition into Data Science enthusiast. I have insights into **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.**
 
 ---
 
